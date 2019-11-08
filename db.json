@@ -128,10 +128,6 @@
 			]
 		},
 		{
-			"skillType": "Android Architecture Components",
-			"skill": []
-		},
-		{
 			"skillType": "10.24.2019",
 			"skill": [{
 					"taskname": "example",
