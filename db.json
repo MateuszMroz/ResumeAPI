@@ -4,7 +4,7 @@
         "about": "test",
         "picture": "https://www.google.pl",
 		"address": "Mateusz Mróz",
-		"phone_number": "123456789",
+		"phoneNumber": "123456789",
 		"mail": "mateusz.mroz10@gmail.com",
 		"githube": "Mateusz Mróz",
 		"linkedin": "Mateusz Mróz"
