@@ -1,9 +1,9 @@
 {
 	"baseInfo": {
-        "about"{
+        "about" : {
             "name": "Mateusz Mróz",
             "about": "test",
-            "picture": "https://www.google.pl",
+            "picture": "https://www.google.pl"
         },
 		"address": "Mateusz Mróz",
 		"phone_number": "123456789",
