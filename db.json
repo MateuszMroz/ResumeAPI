@@ -10,7 +10,7 @@
 		"linkedin": "Mateusz Mróz"
 	},
 	"experience": [{
-		"data": "10.24.2019",
+		"date": "10.24.2019",
 		"workPlace": "Kraków",
 		"tasks": [{
 				"taskName": "example"
@@ -43,7 +43,8 @@
 				"taskName": "example"
 			}
 		]
-	}],
+	}
+    ],
 	"projects": [
         {
 			"time": "10.24.2019",
