@@ -11,55 +11,59 @@
 	},
 	"experience": [{
 		"data": "10.24.2019",
-		"work_place": "Kraków",
+		"workPlace": "Kraków",
 		"tasks": [{
-				"taskname": "example"
+				"taskName": "example"
 			},
 			{
-				"taskname": "example"
+				"taskName": "example"
 			},
 			{
-				"taskname": "example"
+				"taskName": "example"
 			},
 			{
-				"taskname": "example"
+				"taskName": "example"
 			},
 			{
-				"taskname": "example"
+				"taskName": "example"
 			},
 			{
-				"taskname": "example"
+				"taskName": "example"
 			},
 			{
-				"taskname": "example"
+				"taskName": "example"
 			},
 			{
-				"taskname": "example"
+				"taskName": "example"
 			},
 			{
-				"taskname": "example"
+				"taskName": "example"
 			},
 			{
-				"taskname": "example"
+				"taskName": "example"
 			}
 		]
 	}],
 	"projects": [
         {
 			"time": "10.24.2019",
-			"about": "example"
+            "name": "test",
+			"description": "example"
 		},
 		{
 			"time": "10.24.2019",
-			"about": "example"
+            "name": "test",
+			"description": "example"
 		},
 		{
 			"time": "10.24.2019",
-			"about": "example"
+            "name": "test",
+			"description": "example"
 		},
 		{
 			"time": "10.24.2019",
-			"about": "example"
+            "name": "test",
+			"description": "example"
 		}
 	],
 	"education": [
@@ -83,101 +87,105 @@
 	"skills": [
         {
 			"skillType": "Programming languages",
-			"skill": [{
-					"taskname": "example",
-					"value": 4
+			"listSkill": [{
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				}
 			]
 		},
 		{
 			"skillType": "Database",
-			"skill": [{
-					"taskname": "example",
-					"value": 4
+			"listSkill": [{
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				}
 			]
 		},
 		{
 			"skillType": "Library",
-			"skill": [{
-					"taskname": "example",
-					"value": 4
+			"listSkill": [{
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				}
 			]
 		},
+        {
+			"skillType": "Android Architecture Components",
+			"skill": []
+		},
 		{
 			"skillType": "10.24.2019",
-			"skill": [{
-					"taskname": "example",
-					"value": 4
+			"listSkill": [{
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				}
 			]
 		},
 		{
 			"skillType": "Language",
-			"skill": [{
-					"taskname": "example",
-					"value": 4
+			"listSkill": [{
+					"skill": "example",
+					"skillLevel": 4
 				},
 				{
-					"taskname": "example",
-					"value": 4
+					"skill": "example",
+					"skillLevel": 4
 				}
 			]
 		}
