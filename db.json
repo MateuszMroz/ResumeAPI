@@ -1,9 +1,191 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "about": {
+	"name": "Mateusz Mróz",
+	"about": "test",
+	"picture": "https://www.google.pl"
+    }
+	"baseInfo": {
+		"address": "Mateusz Mróz",
+		"phone_number": "123456789",
+		"mail": "mateusz.mroz10@gmail.com",
+		"githube": "Mateusz Mróz",
+		"linkedin": "Mateusz Mróz"
+	},
+	"experience": [{
+		"data": "10.24.2019",
+		"work_place": "Kraków",
+		"tasks": [{
+				"taskname": "example"
+			},
+			{
+				"taskname": "example"
+			},
+			{
+				"taskname": "example"
+			},
+			{
+				"taskname": "example"
+			},
+			{
+				"taskname": "example"
+			},
+			{
+				"taskname": "example"
+			},
+			{
+				"taskname": "example"
+			},
+			{
+				"taskname": "example"
+			},
+			{
+				"taskname": "example"
+			},
+			{
+				"taskname": "example"
+			}
+		]
+	}],
+	"projects": [
+        {
+			"time": "10.24.2019",
+			"about": "example"
+		},
+		{
+			"time": "10.24.2019",
+			"about": "example"
+		},
+		{
+			"time": "10.24.2019",
+			"about": "example"
+		},
+		{
+			"time": "10.24.2019",
+			"about": "example"
+		}
+	],
+	"education": [
+        {
+			"data": "10.24.2019",
+			"description": "example"
+		},
+		{
+			"data": "10.24.2019",
+			"description": "example"
+		},
+		{
+			"data": "10.24.2019",
+			"description": "example"
+		},
+		{
+			"data": "10.24.2019",
+			"description": "example"
+		}
+	],
+	"skills": [
+        {
+			"skillType": "Programming languages",
+			"skill": [{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				}
+			]
+		},
+		{
+			"skillType": "Database",
+			"skill": [{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				}
+			]
+		},
+		{
+			"skillType": "Library",
+			"skill": [{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				}
+			]
+		},
+		{
+			"skillType": "Android Architecture Components",
+			"skill": []
+		},
+		{
+			"skillType": "10.24.2019",
+			"skill": [{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				}
+			]
+		},
+		{
+			"skillType": "Language",
+			"skill": [{
+					"taskname": "example",
+					"value": 4
+				},
+				{
+					"taskname": "example",
+					"value": 4
+				}
+			]
+		}
+	]
 }
