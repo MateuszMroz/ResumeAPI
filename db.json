@@ -1,111 +1,103 @@
 {
 	"baseInfo": {
         "name": "Mateusz Mróz",
-        "about": "test",
-        "picture": "https://www.google.pl",
-		"address": "Mateusz Mróz",
-		"phoneNumber": "123456789",
+        "about": "\t\tI am Android Developer with a passion who is looking for an opportunity to develop and create amazing projects. I have almost two years of professional experience.\n\t\tI am fascinated by Android Architecture Components and mobile market. I belive that my skills can help you develop your product and company.",
+        "picture": "",
+		"address": "mjr. Ryszarda Nuszkiewicza 3/11 31-422 Kraków",
+		"phoneNumber": "519 412 272",
 		"mail": "mateusz.mroz10@gmail.com",
-		"github": "Mateusz Mróz",
-		"linkedIn": "Mateusz Mróz"
+		"github": "https://github.com/MateuszMroz",
+		"linkedIn": "https://www.linkedin.com/in/mateusz-mroz"
 	},
 	"experience": [{
-		"date": "10.24.2019",
-		"workPlace": "Kraków",
+		"date": "12/2017 – currently",
+		"workPlace": "Android Developer - Optidata Sp. z o.o.",
 		"tasks": [{
-				"taskName": "example"
+				"taskName": "Create and development application client – server;"
 			},
 			{
-				"taskName": "example"
+				"taskName": "Design application with MVP and MVVM pattern;"
 			},
 			{
-				"taskName": "example"
+				"taskName": "Integration application with Firebase Cloud Messaging;"
 			},
 			{
-				"taskName": "example"
+				"taskName": "Realtime Android Geolocation Tracking;"
 			},
 			{
-				"taskName": "example"
+				"taskName": "Using Bluetooth Low Energy to connect and communicate with another device such as temperature sensor (Efento) and beacon (kontakt.io);"
 			},
 			{
-				"taskName": "example"
+				"taskName": "Modification PDF files (signature, merge, cut site);"
 			},
 			{
-				"taskName": "example"
+				"taskName": "Developing application with SOLID Principle;"
 			},
 			{
-				"taskName": "example"
+				"taskName": "Customization product for different clients;"
 			},
 			{
-				"taskName": "example"
+				"taskName": "Experience of collaborating with a developers, testers, product managers and UI/UX members;"
 			},
 			{
-				"taskName": "example"
+				"taskName": "Contact with client;"
 			}
 		]
 	}
     ],
 	"projects": [
         {
-			"time": "10.24.2019",
-            "name": "test",
-			"description": "example"
+			"time": "03/2018 – currently",
+            "name": "TMSFalcon",
+			"description": "Application for driver to control his work."
 		},
 		{
-			"time": "10.24.2019",
-            "name": "test",
-			"description": "example"
+			"time": "08/2018 – currently",
+            "name": "WMS App",
+			"description": "Application to control work in warehouse."
 		},
 		{
-			"time": "10.24.2019",
-            "name": "test",
-			"description": "example"
+			"time": "10/2018 – 06/2019",
+            "name": "OPTIest",
+			"description": "Stocktaking application."
 		},
 		{
-			"time": "10.24.2019",
-            "name": "test",
-			"description": "example"
+			"time": "12/2017 – 03/2018",
+            "name": "Complaint App",
+			"description": "Application to report problems with product." 
 		}
 	],
 	"education": [
         {
-			"data": "10.24.2019",
-			"description": "example"
+			"data": "06/2016 – 10/2017",
+			"description": "Programming Course „Przyszły Programista”"
 		},
 		{
-			"data": "10.24.2019",
-			"description": "example"
-		},
-		{
-			"data": "10.24.2019",
-			"description": "example"
-		},
-		{
-			"data": "10.24.2019",
-			"description": "example"
+			"data": "2011 - 2015",
+			"description": "AGH University of Science and Technology \nFaculty of Drilling, Oil and Gas \nDirections: Mining and Geology\nDegree: engineer"
 		}
 	],
 	"skills": [
         {
 			"skillType": "Programming languages",
 			"listSkill": [{
-					"skill": "example",
+					"skill": "Java",
 					"skillLevel": 4
 				},
 				{
-					"skill": "example",
-					"skillLevel": 4
+					"skill": "Kotlin",
+					"skillLevel": 3
 				}
 			]
 		},
 		{
 			"skillType": "Database",
 			"listSkill": [{
-					"skill": "example",
-					"skillLevel": 4
+					"skill": "Room",
+					"skillLevel": 3
 				},
 				{
-					"skill": "example",
+					"skill": "Realm",
 					"skillLevel": 4
 				}
 			]
@@ -113,67 +105,88 @@
 		{
 			"skillType": "Library",
 			"listSkill": [{
-					"skill": "example",
+					"skill": "RxJava2",
+					"skillLevel": 3.5
+				},
+				{
+					"skill": "Dagger2",
+					"skillLevel": 3
+				},
+				{
+					"skill": "Retrofit",
 					"skillLevel": 4
 				},
 				{
-					"skill": "example",
-					"skillLevel": 4
-				},
-				{
-					"skill": "example",
-					"skillLevel": 4
-				},
-				{
-					"skill": "example",
+					"skill": "OkHttp3",
 					"skillLevel": 4
 				}
 			]
 		},
         {
 			"skillType": "Android Architecture Components",
-			"skill": []
+			"skill": [
+                {
+					"skill": "View Binding",
+					"skillLevel": 3.5
+				},
+				{
+					"skill": "LiveData",
+					"skillLevel": 4
+				},
+				{
+					"skill": "View Model",
+					"skillLevel": 3.5
+				},
+                {
+					"skill": "Paging Library",
+					"skillLevel": 3.5
+				},
+				{
+					"skill": "WorkManager",
+					"skillLevel": 2
+				}
+            ]
 		},
 		{
-			"skillType": "10.24.2019",
+			"skillType": "Tools",
 			"listSkill": [{
-					"skill": "example",
+					"skill": "Android SDK;",
 					"skillLevel": 4
 				},
 				{
-					"skill": "example",
+					"skill": "ADB",
 					"skillLevel": 4
 				},
 				{
-					"skill": "example",
+					"skill": "AVD Manager",
 					"skillLevel": 4
 				},
 				{
-					"skill": "example",
+					"skill": "Gradle",
+					"skillLevel": 3
+				},
+				{
+					"skill": "Fabric",
+					"skillLevel": 5
+				},
+				{
+					"skill": "GitHub",
+					"skillLevel": 2.5
+				},
+				{
+					"skill": "TortoiseSVN",
 					"skillLevel": 4
 				},
 				{
-					"skill": "example",
+					"skill": "Jira",
 					"skillLevel": 4
 				},
 				{
-					"skill": "example",
+					"skill": "Confluence",
 					"skillLevel": 4
 				},
 				{
-					"skill": "example",
-					"skillLevel": 4
-				},
-				{
-					"skill": "example",
-					"skillLevel": 4
-				},
-				{
-					"skill": "example",
-					"skillLevel": 4
-				},
-				{
-					"skill": "example",
+					"skill": "Firebase",
 					"skillLevel": 4
 				}
 			]
@@ -181,12 +194,12 @@
 		{
 			"skillType": "Language",
 			"listSkill": [{
-					"skill": "example",
-					"skillLevel": 4
+					"skill": "English",
+					"skillLevel": 3.5
 				},
 				{
-					"skill": "example",
-					"skillLevel": 4
+					"skill": "Polish",
+					"skillLevel": 5
 				}
 			]
 		}
