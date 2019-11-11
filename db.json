@@ -124,7 +124,7 @@
 		},
         {
 			"skillType": "Android Architecture Components",
-			"skill": [
+			"listSkill": [
                 {
 					"skill": "View Binding",
 					"skillLevel": 3.5
